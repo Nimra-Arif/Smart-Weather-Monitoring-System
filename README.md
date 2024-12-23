@@ -28,11 +28,9 @@ The Smart Weather Monitoring System collects data from various sensors and trans
 ## ThingSpeak Dashboard
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7fb51383-3b7c-4937-92b2-daadcbd8a7ec" width="300" height="200" alt="ThingSpeak Dashboard 1"/>
-  <img src="https://github.com/user-attachments/assets/01630b64-c062-4179-8049-79e0f61191ad" width="300" height="200" alt="ThingSpeak Dashboard 2"/>
+  <img src="https://github.com/user-attachments/assets/5cfaf61f-55e8-4502-91c0-151ddc3a837f" width="300" height="200" alt="ThingSpeak Dashboard 2"/>
   <img src="https://github.com/user-attachments/assets/43156b90-a32f-4e98-b30f-34011ed7c496" width="300" height="200" alt="ThingSpeak Dashboard 3"/>
 </p>
-
-
 
 
 
