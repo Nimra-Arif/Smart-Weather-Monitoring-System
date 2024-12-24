@@ -76,5 +76,6 @@ The Smart Weather Monitoring System collects data from various sensors and trans
      - `WiFi`
      - `DHTesp`
      - `ThingSpeak`
-
-4. **Clone the Repository**:
+     
+## Final Notes
+The project is a completed with adherence to all the requirements set by our IOT course Instructor for this project. All the deliverables are duly submitted and uploaded here for reference.
